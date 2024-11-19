@@ -1,0 +1,37 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+      - id: check-yaml
+      - id: check-added-large-files
+
+  - repo: https://github.com/charliermarsh/ruff-pre-commit
+    rev: "v0.0.287"
+    hooks:
+      - id: ruff
+        exclude: test_.*
+
+  - repo: https://github.com/pycqa/isort
+    rev: 5.12.0
+    hooks:
+      - id: isort
+        name: isort (python)
+        args: ["--check-only --profile black"]
+
+  - repo: https://github.com/pycqa/pydocstyle
+    rev: 6.3.0
+    hooks:
+      - id: pydocstyle
+        exclude: test_.*
+        args:
+          - --ignore
+          - D100,D104,D107,D202,D213,D203,D413,D400,D415
+
+
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v1.3.0
+    hooks:
+      - id: mypy
+        exclude: test_.*|.*/tests/.*|^reports/.|^rewrite/.
+        additional_dependencies: [ "sqlalchemy[mypy]", "types-PyYAML", "pydantic", "types-redis" ]
+        args: [ "--config-file" , ".pre-commit-mypy.ini" ]

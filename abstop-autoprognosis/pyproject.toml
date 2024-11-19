@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "abstop-autoprognosis"
+version = "0.1.0"
+description = ""
+authors = ["Tariq Dam <6518381-tariqdam@users.noreply.gitlab.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10"
+jupyter = "^1.0.0"
+tensorflow = "^2.13.0"
+tensorflow-io-gcs-filesystem = { version = "^0.23.1", python = ">=3.10,<3.11" }
+autoprognosis = { path="../autoprognosis", develop=true }
+# lightgbm = { path="../LightGBM/python-package", develop=true }
+lightgbm = "4.4.0"
+shap = "0.46.0"
+scipy = "1.13.0"
+torch = "2.3.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+

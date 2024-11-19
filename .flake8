@@ -1,0 +1,11 @@
+[flake8]
+max-line-length = 88
+exclude =
+    # No need to traverse our git directory
+    .git,
+    # No need to check venv
+    .venv,
+    # There's no value in checking cache directories
+    __pycache__,
+    flower
+ignore = E203, W503, W504

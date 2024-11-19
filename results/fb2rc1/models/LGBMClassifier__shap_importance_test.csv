@@ -1,0 +1,52 @@
+,col_name,feature_importance_vals
+27,"CRP, last 72h, trend",0.015546349866935526
+48,"Antibiotics, last 24h, Penicillins",0.014767778261554308
+23,"Antibiotics, shortest treatment, days",0.010163296840396355
+21,"Antibiotics, last 24h, Vancomycin",0.008249551665025412
+35,"Respiratory rate, last 24h, last",0.007004149685079417
+28,"Heart rate, last 24h, last",0.0069734357370943014
+42,"Creatinine, last 24h, last",0.006057260999866349
+6,"pH, arterial, last 24h, min",0.005589271098342807
+12,"Temperature, last 24, max",0.005373636139983634
+13,"Thrombocytes, last 72h, last",0.004992911640448114
+4,"Respiratory rate, last 24h, trend",0.004279333699066963
+32,"Temperature, last 24, trend",0.004125930344221678
+0,"Thrombocytes, last 72h, trend",0.00391994783622792
+8,"Blood pressure, systolic, last 24h, min",0.0033817157235085413
+22,"Lactate, last 72h, trend",0.0031780242772464504
+2,"Culture pathogenicity, last 72h, Others",0.003024128351061203
+33,BMI,0.0029868929033623976
+45,"Age, years",0.0028895703467972096
+18,"Leukocytes, last 72h, last",0.0028313475991595255
+40,"Sedation, last 72h, any",0.0026295312076712193
+16,"Heart rate, last 24h, trend",0.0019064897275481824
+39,"Antibiotics, last 24h, Cephalosporins",0.0016736890851929418
+47,"Culture pathogenicity, last 72h, Medium",0.0008806884340237941
+37,"pH, arterial, last 24h, max",0.0008538355754655888
+44,"Lactate, last 72h, last",0.0006427121690339107
+15,"Antibiotics, last 24h, Fluoroquinolones",0.0006260114910195714
+17,"Leukocytes, last 72h, trend",0.00047993638213287887
+25,"CRP, last 72h, last",0.0004551027236799794
+38,"Culture positive group, last 72h, Blood",0.0
+11,"Sex, Male",0.0
+43,"Antibiotics, last 24h, Others",0.0
+41,"Culture positive group, last 72h, Sputum",0.0
+3,"SDD given, <14 days",0.0
+46,"Culture positive group, last 72h, Urine",0.0
+36,"Culture pathogenicity, last 72h, Low",0.0
+31,"Antibiotics, last 24h, Meropenem",0.0
+34,"Admission type, Medical",0.0
+5,"Antibiotics, last 24h, Cotrimoxazole",0.0
+14,"Antibiotics, started on ICU",0.0
+30,"Antibiotics, last 24h, Metronidazol",0.0
+29,"Antibiotics, last 24h, Tetracyclines",0.0
+7,"Microbiology, SDD positive, last 72h",0.0
+26,"Antibiotics, last 24h,
+Macrolides & Lincosamides",0.0
+1,"Antibiotics, last 24h, Aminoglycosides",0.0
+9,"Culture pathogenicity, last 72h, None",0.0
+10,"Culture pathogenicity, last 72h, High",0.0
+20,"Antibiotics, last 24h,
+Amoxicillin, incl. B-lactam",0.0
+19,"Sedation, last 72h, any, increase >50%",0.0
+24,"Culture positive group, last 72h, Tip",0.0

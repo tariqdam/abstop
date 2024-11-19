@@ -1,0 +1,52 @@
+,col_name,feature_importance_vals
+23,"Antibiotics, shortest treatment, days",0.012318750631008379
+25,"CRP, last 72h, last",0.0064219929528907885
+47,"Culture pathogenicity, last 72h, Medium",0.003708500747769174
+2,"Culture pathogenicity, last 72h, Others",0.0036277222488995853
+18,"Leukocytes, last 72h, last",0.00321077202332529
+44,"Lactate, last 72h, last",0.002899568998341561
+48,"Antibiotics, last 24h, Penicillins",0.0018017131607927677
+42,"Creatinine, last 24h, last",0.0017884585872006004
+7,"Microbiology, SDD positive, last 72h",0.0014512021823925383
+13,"Thrombocytes, last 72h, last",0.0012823373090066926
+10,"Culture pathogenicity, last 72h, High",0.0011115110099000007
+36,"Culture pathogenicity, last 72h, Low",0.000977161475498219
+28,"Heart rate, last 24h, last",0.0006970552136512742
+3,"SDD given, <14 days",0.0006801244436722972
+8,"Blood pressure, systolic, last 24h, min",0.0006463356394049618
+41,"Culture positive group, last 72h, Sputum",0.0005583081293786721
+15,"Antibiotics, last 24h, Fluoroquinolones",0.0005382588402400568
+33,BMI,0.0005228506746537902
+21,"Antibiotics, last 24h, Vancomycin",0.0004823259514197165
+38,"Culture positive group, last 72h, Blood",0.0004343735824677268
+30,"Antibiotics, last 24h, Metronidazol",0.000433346360884889
+14,"Antibiotics, started on ICU",0.0004299875926145205
+34,"Admission type, Medical",0.00041304865070378746
+39,"Antibiotics, last 24h, Cephalosporins",0.0003754037944540328
+12,"Temperature, last 24, max",0.0003199050018377782
+11,"Sex, Male",0.00025771705328340034
+35,"Respiratory rate, last 24h, last",0.0002451598751171331
+27,"CRP, last 72h, trend",0.00021149454733368283
+40,"Sedation, last 72h, any",0.00018171355949177204
+45,"Age, years",0.00016086813396725224
+17,"Leukocytes, last 72h, trend",0.0001075440816336324
+20,"Antibiotics, last 24h,
+Amoxicillin, incl. B-lactam",0.00010246872930612273
+32,"Temperature, last 24, trend",8.831153806242354e-05
+9,"Culture pathogenicity, last 72h, None",8.698162133203155e-05
+37,"pH, arterial, last 24h, max",8.243519280765807e-05
+4,"Respiratory rate, last 24h, trend",7.96625860775079e-05
+24,"Culture positive group, last 72h, Tip",6.85592330132069e-05
+31,"Antibiotics, last 24h, Meropenem",6.067193247554296e-05
+0,"Thrombocytes, last 72h, trend",5.342490115505083e-05
+29,"Antibiotics, last 24h, Tetracyclines",4.294175968066317e-05
+19,"Sedation, last 72h, any, increase >50%",4.222846342655388e-05
+16,"Heart rate, last 24h, trend",3.786488154487905e-05
+6,"pH, arterial, last 24h, min",3.63944511829252e-05
+22,"Lactate, last 72h, trend",3.111308845696755e-05
+5,"Antibiotics, last 24h, Cotrimoxazole",2.8291969170990173e-05
+26,"Antibiotics, last 24h,
+Macrolides & Lincosamides",2.359705077306234e-05
+46,"Culture positive group, last 72h, Urine",1.1792570464779529e-05
+1,"Antibiotics, last 24h, Aminoglycosides",7.2855177960017065e-06
+43,"Antibiotics, last 24h, Others",6.618569684573452e-06

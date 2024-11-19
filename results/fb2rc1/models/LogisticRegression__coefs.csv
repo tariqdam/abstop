@@ -1,0 +1,52 @@
+,0
+"Antibiotics, last 24h, Penicillins",0.19303205044703417
+"Antibiotics, last 24h, Vancomycin",-0.1163693540741493
+"Antibiotics, shortest treatment, days",-0.10353119556685743
+"Blood pressure, systolic, last 24h, min",-0.08454747229311746
+"pH, arterial, last 24h, min",-0.07440216051926665
+"Lactate, last 72h, last",0.06630398472082187
+"Thrombocytes, last 72h, last",-0.06273146616189741
+"Creatinine, last 24h, last",0.0626609733524449
+"Heart rate, last 24h, last",0.05930691987906789
+"Temperature, last 24, max",0.05908788807888125
+"CRP, last 72h, last",0.051244002295705325
+"Antibiotics, started on ICU",0.05024053817201261
+"Culture pathogenicity, last 72h, Medium",0.049209382447064465
+"Antibiotics, last 24h, Cephalosporins",-0.04729640352679954
+"Leukocytes, last 72h, trend",0.04303079277118846
+"Antibiotics, last 24h,
+Amoxicillin, incl. B-lactam",-0.04288295566932885
+"Antibiotics, last 24h, Others",-0.042198663457288774
+"Culture pathogenicity, last 72h, Others",-0.04211105368503296
+"Antibiotics, last 24h, Cotrimoxazole",-0.03911663068664418
+"Leukocytes, last 72h, last",0.0390188428661101
+"Respiratory rate, last 24h, last",0.03899312926215191
+"Temperature, last 24, trend",0.03140274339323588
+"Culture pathogenicity, last 72h, High",0.0313229634347928
+"CRP, last 72h, trend",0.03043159877735648
+"Culture pathogenicity, last 72h, None",0.030426072489514434
+"Antibiotics, last 24h, Fluoroquinolones",-0.02538015797810172
+"Thrombocytes, last 72h, trend",0.025228160825803182
+"Antibiotics, last 24h, Aminoglycosides",-0.022885673985481747
+"Respiratory rate, last 24h, trend",-0.022809754748438008
+"Antibiotics, last 24h, Metronidazol",-0.020091908966983322
+"SDD given, <14 days",-0.01867016609523122
+"Age, years",-0.01631571894653541
+"Sex, Male",-0.015443225794570964
+"Culture positive group, last 72h, Tip",-0.014830744714457255
+"Culture positive group, last 72h, Blood",0.013836738847413639
+"Heart rate, last 24h, trend",-0.013400452765746926
+"pH, arterial, last 24h, max",-0.012266454331107651
+"Culture pathogenicity, last 72h, Low",-0.011931360328961377
+"Antibiotics, last 24h,
+Macrolides & Lincosamides",0.011712603794099379
+"Antibiotics, last 24h, Meropenem",-0.01009854248516154
+"Sedation, last 72h, any",0.009638168648439348
+"Lactate, last 72h, trend",0.008543418331413005
+"Culture positive group, last 72h, Sputum",0.007975707378270558
+"Sedation, last 72h, any, increase >50%",-0.0059180770601385555
+BMI,0.005378664995985903
+"Admission type, Medical",-0.0035021672588238396
+"Antibiotics, last 24h, Tetracyclines",0.0017551634987774125
+"Microbiology, SDD positive, last 72h",-0.001599176502789456
+"Culture positive group, last 72h, Urine",0.0007374838243589869
